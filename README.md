@@ -39,10 +39,10 @@ If you find any issues, have improvements, or want to add new simulations, feel 
 
 ## License
 
-You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+You are free to use, modify, and distribute the files for both commercial and non-commercial purposes.
 
 ## Acknowledgments
 
-Special thanks to [contributors] who have helped in developing and improving these simulations.
+Special thanks to the contributors who have helped in developing and improving these simulations.
 
 Happy simulating!
