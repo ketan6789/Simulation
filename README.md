@@ -14,20 +14,9 @@ This repository contains simulation files created using Simulink for various pow
     - Inverter_Biipolar.slx: Simulation of a single-phase Bipolar inverter with pulse width modulation (PWM) control.
     - Inverter_Unipolar.slx: Simulation of a single-phase Uniipolar inverter with pulse width modulation (PWM) control.
 
-## Usage
-
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/ketan6789/Simulation.git
-    ```
-
-2. Open the Simulink files in MATLAB.
-
-3. Run the simulations to observe the behavior of the power converters.
-
-4. Modify the parameters and configurations to suit your specific needs.
-
+2. **PWM Simulation**
+    - Various PWM Simulations (Five Phase, Six Phase)
+      
 ## Dependencies
 
 - MATLAB R2023b 
